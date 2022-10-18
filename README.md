@@ -3,7 +3,6 @@
 
 
 - 🔭 Atualmente trabalho com desenvolvimento mobile.
-- 🌱 Estudando Flutter
 
 
  <div>
